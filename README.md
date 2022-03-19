@@ -6,4 +6,4 @@
 * :speech_balloon: Feel free to ask me anything
 
 #### Connect with me:
-[![website](./img/linkedin)](https://www.linkedin.com/in/despoina-christodoulou-624776225)
+[![LinkedIn logo](img/LinkedIn-dark.svg)](https://www.linkedin.com/in/despoina-christodoulou-624776225)

@@ -3,6 +3,7 @@
 
 * :seedling: I'm currently learning everything :nerd_face:
 * :dart: My goal is to get more involved in open source
+* :writing_hand: You can find my CV here.
 * :speech_balloon: Feel free to ask me anything
 
 #### Languages and tools:
@@ -22,6 +23,12 @@
 <br />
 
 ***
+#### Languages:
+* Greek
+* English
+* German
+****
 #### Connect with me:
 [![website](./image/linkedin-light.svg)](https://www.linkedin.com/in/despoina-christodoulou-624776225)
+
 

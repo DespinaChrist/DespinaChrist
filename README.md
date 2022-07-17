@@ -1,5 +1,5 @@
 ### Hello World, I'm Despina :wave:
-#### I am an Applied Informatics Student from Greece
+#### I study Applied Informatics in Greece
 
 * :seedling: I'm currently learning everything :nerd_face:
 * :dart: My goal is to get more involved in open source

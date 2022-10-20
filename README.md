@@ -2,7 +2,7 @@
 #### I study Computer Science in Greece
 
 * :seedling: I'm currently learning python :nerd_face:
-* :dart: My goal is to get more familiar with advanced programming concepts and to gradually built my portfolio.
+* :dart: My goal is to get more familiar with advanced programming concepts and to gradually build my portfolio.
 <!--* :writing_hand: You can find my CV here.-->
 * :speech_balloon: Feel free to ask me anything
 

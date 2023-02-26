@@ -1,6 +1,6 @@
 ### Hello World, I'm Despina :wave:
 
-* :seedling: I'm currently studying Software Engineer at Univerity of Macedonia in Greece :nerd_face:
+* :seedling: I'm currently studying Computer Science at Univerity of Macedonia in Greece :nerd_face:
 * :dart:  My goal is to use my experience and skills to work on projects related to AI and machine learning, and to be part of the cutting edge innovation in this field.
 * :speech_balloon: Feel free to ask me anything
 <!--* :writing_hand: You can find my CV here.-->
